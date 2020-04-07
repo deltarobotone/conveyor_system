@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [ 
+ <!ATTLIST svg 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print"  
+                                               dsy:text-version CDATA #IMPLIED > 
+
+                                               <!ATTLIST text 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print" 
+                                               dsy:text-version CDATA #IMPLIED > 
+                                                ]>
+<svg style = "background : rgb(255,255,255)" width = "297mm" xmlns = "http://www.w3.org/2000/svg" height = "210mm" version = "1.1" viewBox = "0 0 297 210" xmlns:dsy = "http://www.3ds.com/print" xmlns:xlink = "http://www.w3.org/1999/xlink" dsy:text-version = "21000"><g fill = "none" stroke = "rgb(255, 0, 0)" stroke-width = "0.13" stroke-linecap = "butt" stroke-linejoin = "miter"><path d = "M 131 122.5 L 131 127.5"/><path d = "M 131.00002 127.49999 A 1 1 0 0 0 132.00002 128.5"/><path d = "M 165 128.5 L 132 128.5"/><path d = "M 165.00002 128.5 A 1 1 0 0 0 166.00002 127.49999"/><path d = "M 166 127.5 L 166 122.5"/><path d = "M 126 82.5 L 126 121.5"/><path d = "M 127.00002 81.5 A 1 1 0 0 0 126.00002 82.499992"/><path d = "M 126.00002 121.49999 A 1 1 0 0 0 127.00002 122.49999"/><path d = "M 127 81.5 L 170 81.5"/><path d = "M 171.00002 82.499992 A 1 1 0 0 0 170.00002 81.5"/><path d = "M 131 122.5 L 127 122.5"/><path d = "M 171 121.5 L 171 82.5"/><path d = "M 170.00002 122.49999 A 1 1 0 0 0 171.00002 121.49999"/><path d = "M 170 122.5 L 166 122.5"/></g></svg>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [ 
+ <!ATTLIST svg 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print"  
+                                               dsy:text-version CDATA #IMPLIED > 
+
+                                               <!ATTLIST text 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print" 
+                                               dsy:text-version CDATA #IMPLIED > 
+                                                ]>
+<svg style = "background : rgb(255,255,255)" width = "297mm" xmlns = "http://www.w3.org/2000/svg" height = "210mm" version = "1.1" viewBox = "0 0 297 210" xmlns:dsy = "http://www.3ds.com/print" xmlns:xlink = "http://www.w3.org/1999/xlink" dsy:text-version = "21000"><g fill = "none" stroke = "rgb(255, 0, 0)" stroke-width = "0.13" stroke-linecap = "butt" stroke-linejoin = "miter"><path d = "M 128 95 L 128 97"/><path d = "M 129.00002 93.999992 A 1 1 0 0 0 128.00002 94.999992"/><path d = "M 129 94 L 168 94"/><path d = "M 169.00002 94.999992 A 1 1 0 0 0 168.00002 93.999992"/><path d = "M 169 97 L 169 95"/><path d = "M 128 113 L 128 115"/><path d = "M 128.00002 114.99999 A 1 1 0 0 0 129.00002 115.99999"/><path d = "M 168 116 L 129 116"/><path d = "M 168.00002 115.99999 A 1 1 0 0 0 169.00002 114.99999"/><path d = "M 169 115 L 169 113"/><path d = "M 116.5 98 L 116.5 112"/><path d = "M 117.50002 96.999992 A 1 1 0 0 0 116.50002 97.999992"/><path d = "M 116.50002 111.99999 A 1 1 0 0 0 117.50002 112.99999"/><path d = "M 128 113 L 117.5 113"/><path d = "M 179.5 113 L 169 113"/><path d = "M 179.50002 112.99999 A 1 1 0 0 0 180.50002 111.99999"/><path d = "M 180.5 112 L 180.5 98"/><path d = "M 180.50002 97.999992 A 1 1 0 0 0 179.50002 96.999992"/><path d = "M 169 97 L 179.5 97"/><path d = "M 117.5 97 L 128 97"/><circle r = "2.1000061" cx = "176.50002" cy = "104.99999"/><circle r = "2.1000061" cx = "120.50002" cy = "104.99999"/><path d = "M 169 100 L 172 100"/><path d = "M 172 110 L 172 100"/><path d = "M 172 110 L 169 110"/><path d = "M 169 100 L 169 110"/><path d = "M 125 100 L 128 100"/><path d = "M 128 110 L 128 100"/><path d = "M 128 110 L 125 110"/><path d = "M 125 100 L 125 110"/></g></svg>

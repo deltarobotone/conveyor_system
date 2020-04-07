@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [ 
+ <!ATTLIST svg 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print"  
+                                               dsy:text-version CDATA #IMPLIED > 
+
+                                               <!ATTLIST text 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print" 
+                                               dsy:text-version CDATA #IMPLIED > 
+                                                ]>
+<svg style = "background : rgb(255,255,255)" width = "297mm" xmlns = "http://www.w3.org/2000/svg" height = "210mm" version = "1.1" viewBox = "0 0 297 210" xmlns:dsy = "http://www.3ds.com/print" xmlns:xlink = "http://www.w3.org/1999/xlink" dsy:text-version = "21000"><g fill = "none" stroke = "rgb(255, 0, 0)" stroke-width = "0.13" stroke-linecap = "butt" stroke-linejoin = "miter"><path d = "M 171.5 110 L 169.5 110"/><path d = "M 171.50002 109.99999 A 1 1 0 0 0 172.50002 108.99999"/><path d = "M 172.5 109 L 172.5 101"/><path d = "M 172.50002 100.99999 A 1 1 0 0 0 171.50002 99.999992"/><path d = "M 169.5 100 L 171.5 100"/><path d = "M 124.5 101 L 124.5 109"/><path d = "M 125.50002 99.999992 A 1 1 0 0 0 124.50002 100.99999"/><path d = "M 124.50002 108.99999 A 1 1 0 0 0 125.50002 109.99999"/><path d = "M 125.5 100 L 127.5 100"/><path d = "M 127.5 110 L 125.5 110"/><path d = "M 168.5 113 L 128.5 113"/><path d = "M 168.50002 112.99999 A 1 1 0 0 0 169.50002 111.99999"/><path d = "M 127.50002 111.99999 A 1 1 0 0 0 128.50002 112.99999"/><path d = "M 169.5 112 L 169.5 110"/><path d = "M 127.5 110 L 127.5 112"/><path d = "M 127.5 98 L 127.5 100"/><path d = "M 128.50002 96.999992 A 1 1 0 0 0 127.50002 97.999992"/><path d = "M 169.5 100 L 169.5 98"/><path d = "M 169.50002 97.999992 A 1 1 0 0 0 168.50002 96.999992"/><path d = "M 128.5 97 L 168.5 97"/><circle r = "4.5" cx = "148.50002" cy = "104.99999"/></g></svg>
