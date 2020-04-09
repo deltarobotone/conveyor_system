@@ -112,15 +112,15 @@ There are two recommended types of motors:
 
 [Shoplink](https://www.amazon.de/gp/product/B075575BJH/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
-It is recommended to use the Conveyor System with Delta-Robot one. All Schematics for Delta Robot-One are availible also in a fritzing version...
+It is recommended to use the Conveyor System with Delta-Robot One. There is an hardware interface for external motors like the drive of Conveyor System. The picture below shows the schematics of this hardware interface. All Schematics for Delta Robot-One are availible also in a fritzing version...
 
 [>>>Schematics<<<](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/circuit_board_schematics/circuit_board_schematics%20(12).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_schematics/circuit_board_schematics%20(12).png)
 
-# Hardware interface of Delta-Robot One
-
 Delta-Robot One has an hardware interface on the circuit board to provide the usage of the conveyor system without any additional hardware like a motordriver or a power supply. Connect the DC-Motor of Conveyor System to your Delta-Robot One interface to M+(PWM max. 5V/4A) and M-(GND).
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(34).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(34).PNG)
 
 # Conveyor System and Arduino Library
 
