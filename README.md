@@ -20,13 +20,11 @@ We used a system like this to grasp some chips at the image processing lab of ou
 
 # Delta-Robot One
 
-### If you don't know Delta-Robot One we recommend to visit:
+### If you don't know Delta-Robot One check out:
 
 ### Arduino Projecthub page of [Delta-Robot One](https://create.arduino.cc/projecthub/deltarobotone/delta-robot-one-8386a1) 
 
-### or
-
-### GitHub page [how_to_build_your_robot](https://deltarobotone.github.io/how_to_build_your_robot/)
+### GitHub repository [how_to_build_your_robot](https://github.com/deltarobotone/how_to_build_your_robot)
 
 [<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="400">](https://www.youtube.com/watch?v=NdPv1pEZnJw)
 
