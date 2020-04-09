@@ -6,11 +6,11 @@ This repository provides all parts you need to build the conveyor system. Delta-
 
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 
-This video clip show a Delta-Robot One with long pillars found at [hardware_parts](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package) and the Conveyor System.
+This video clip show a Delta-Robot One with long pillars found at [hardware parts](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package) and the Conveyor System.
 
-[<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="500">](https://www.youtube.com/watch?v=MGw2fCCIe-g)
+[<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="700">](https://www.youtube.com/watch?v=MGw2fCCIe-g)
 
-We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the following video you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend yout robot.
+We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the video above you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend your robot.
 
 There are interfaces provided for:
 
