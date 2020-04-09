@@ -6,6 +6,8 @@ This is an additional system for Delta-Robot One. It is called conveyor system. 
 
 This repository provides all parts you need to build the conveyor system. Delta-Robot One and also this system are mainly designed for students and makers with an educational thought. The Conveyor System for Delta-Robot One is designed as a kit. The pluggable mechanical solution make the assembly fast and easy. Like Delta-Robot One this system is basicly build of lasercutted and 3D-printed parts. An introduction at the containing wiki provides a description of all parts including production files, drawings and a list where you can get the parts. If all the parts are produced and/or delivered the assembly steps will be described at the wiki page. The last step decribes the usage of the system with Delta-Robot One. 
 
+### Direct link -> [**>>>Conveyor System Wiki<<<**](https://github.com/deltarobotone/conveyor_system/wiki)
+
 [<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_assembly/conveyor_system_assembly%20(49).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_assembly/conveyor_system_assembly%20(49).PNG)
 
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
@@ -16,8 +18,6 @@ This video clip show a Delta-Robot One with long pillars found at [hardware part
 
 We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the video above you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend your robot. There are interfaces provided for Gripper/GND (ON/OFF), Motor/GND (PWM max. 4A), I2C Bus (SCL/SDA),Power/GND (5V/max. 4A)
 
-# Direct link -> [**>>>Conveyor System Wiki<<<**](https://github.com/deltarobotone/conveyor_system/wiki)
-
 # Delta-Robot One
 
 ### If you don't know Delta-Robot One we recommend to visit:
@@ -26,7 +26,7 @@ We used a system like this to grasp some chips at the image processing lab of ou
 
 ### or
 
-###GitHub page [how_to_build_your_robot](https://deltarobotone.github.io/how_to_build_your_robot/)
+### GitHub page [how_to_build_your_robot](https://deltarobotone.github.io/how_to_build_your_robot/)
 
 [<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="400">](https://www.youtube.com/watch?v=NdPv1pEZnJw)
 
