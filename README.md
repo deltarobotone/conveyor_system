@@ -12,7 +12,7 @@ With the help of a community (this means you) it could be a world wide education
 
 This video clip show a Delta-Robot One with long pillars found at [hardware parts](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package) and the Conveyor System.
 
-[<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="700">](https://www.youtube.com/watch?v=MGw2fCCIe-g)
+[<img src="http://img.youtube.com/vi/MGw2fCCIe-g/0.jpg" width="400">](https://www.youtube.com/watch?v=MGw2fCCIe-g)
 
 We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the video above you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend your robot. There are interfaces provided for Gripper/GND (ON/OFF), Motor/GND (PWM max. 4A), I2C Bus (SCL/SDA),Power/GND (5V/max. 4A)
 
@@ -22,7 +22,7 @@ We used a system like this to grasp some chips at the image processing lab of ou
 
 If you don't know Delta-Robot One we recommend to visit the Arduino Projecthub page of [Delta-Robot One](https://create.arduino.cc/projecthub/deltarobotone/delta-robot-one-8386a1) or the GitHub page [how_to_build_your_robot](https://deltarobotone.github.io/how_to_build_your_robot/)
 
-[<img src="http://img.youtube.com/vi/v=NdPv1pEZnJw/0.jpg" width="700">](https://www.youtube.com/watch?v=NdPv1pEZnJw)
+[<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="400">](https://www.youtube.com/watch?v=NdPv1pEZnJw)
 
 # Conveyor System assembly
 
@@ -54,9 +54,39 @@ Be creative and choose your own design to build an individual Conveyor System.
 
 All drawings of the layer system are availible...
 
-[>>>Drawings<<<](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings)
+[>>>Drawings<<<](https://github.com/deltarobotone/conveyor_system/wiki/Parts-Drawings)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_drawings/conveyor_system_drawings%20(3).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_drawings/conveyor_system_drawings%20(3).png)
+
+# 3D-Printed parts
+
+[>>>Documentation<<<](https://github.com/deltarobotone/conveyor_system/wiki/Step-2:-Check-your-parts)
+
+[>>>Files(Drums)<<<](https://github.com/deltarobotone/conveyor_system/tree/master/3D_Print/Drums)
+
+***How to get the parts?*** No problem...
+
+...we tested [i.materialise.com](http://i.materialise.com/) and created some shop items so you can easily order the required parts using this links:
+
+[>>>Drum<<<](https://i.materialise.com/de/shop/item/drum)
+
+[>>>Drum Drive<<<](https://i.materialise.com/de/shop/item/drum-drive)
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(19).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(19).PNG)
+
+All drawings of the mechanics are availible...
+
+[>>>Drawings<<<](https://github.com/deltarobotone/conveyor_system/wiki/Parts-Drawings)
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_drawings/conveyor_system_drawings%20(5).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_drawings/conveyor_system_drawings%20(5).png)
+
+### Optional 3D-Printed parts
+
+[>>>Files(Pillars)<<<](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package)
+
+[>>>Pillar Long Package<<<](https://i.materialise.com/de/shop/item/pillar-long)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(14).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(14).PNG)
 
 # Electronics
 
@@ -80,35 +110,7 @@ It is recommended to use the Conveyor System with Delta-Robot one. All Schematic
 
 [>>>Schematics<<<](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics)
 
-[<img src="https://github.com/deltarobotone/image_database/blob/master/circuit_board_schematics/circuit_board_schematics%20(5).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_schematics/circuit_board_schematics%20(5).png)
-
-# 3D-Printed parts
-
-[>>>Documentation<<<](https://github.com/deltarobotone/conveyor_system/wiki/Step-2:-Check-your-parts)
-
-[>>>Files(Drums)<<<](https://github.com/deltarobotone/conveyor_system/tree/master/3D_Print/Drums)
-
-***How to get the parts?*** No problem...
-
-...we tested [i.materialise.com](http://i.materialise.com/) and created some shop items so you can easily order the required parts using this links:
-
-[>>>Drum<<<](https://i.materialise.com/de/shop/item/drum)
-
-[>>>Drum Drive<<<](https://i.materialise.com/de/shop/item/drum-drive)
-
-[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(19).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(19).PNG)
-
-All drawings of the mechanics are availible...
-
-[>>>Drawings<<<](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-Drawings)
-
-[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_drawings/conveyor_system_drawings%20(3).png" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_drawings/conveyor_system_drawings%20(3).png)
-
-# Optional 3D-Printed parts
-
-[>>>Files(Pillars)<<<](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package)
-
-[>>>Pillar Long Package<<<](https://i.materialise.com/de/shop/item/pillar-long)
+[<img src="https://github.com/deltarobotone/image_database/blob/master/circuit_board_schematics/circuit_board_schematics%20(12).png" width="500">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_schematics/circuit_board_schematics%20(12).png)
 
 # Hardware interface of Delta-Robot One
 
