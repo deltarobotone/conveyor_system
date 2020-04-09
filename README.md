@@ -34,7 +34,7 @@ The Conveyor System for Delta-Robot One is designed as a kit. The pluggable mech
 
 ***How to build your conveyor?*** No worrys we create a wiki...
 
-Wiki: [>>>conveyor_system wiki<<<](https://github.com/deltarobotone/conveyor_system/wiki)
+Wiki: [>>>Conveyor System Wiki<<<](https://github.com/deltarobotone/conveyor_system/wiki)
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(1).PNG)
 
