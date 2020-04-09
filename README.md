@@ -40,7 +40,7 @@ Wiki: [>>>conveyor_system wiki<<<](https://github.com/deltarobotone/conveyor_sys
 
 # Conveyor System assembly video clip
 
-[<img src="http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg" width="500">](https://www.youtube.com/watch?v=3GcX2WYTDjQ)
+[<img src="http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg" width="400">](https://www.youtube.com/watch?v=3GcX2WYTDjQ)
 
 # Lassercutting Parts
 
@@ -103,12 +103,14 @@ There are two recommended types of motors:
 ### Option 1: DC-Motor without encoder 12V 62RPM
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(28).PNG" width="300">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(28).PNG)
+
 [Shoplink](https://www.amazon.de/gp/product/B0752ZY6YW/ref=ppx_yo_dt_b_asin_image_o04_s00?ie=UTF8&psc=1)
 
 ### Option 2: DC-Motor with encoder 12V 100RPM
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(31).PNG" width="300">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(31).PNG)
-[Shoplink](https://www.amazon.de/gp/product/B075575BJH/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)|
+
+[Shoplink](https://www.amazon.de/gp/product/B075575BJH/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 It is recommended to use the Conveyor System with Delta-Robot one. All Schematics for Delta Robot-One are availible also in a fritzing version...
 
