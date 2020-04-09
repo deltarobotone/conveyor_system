@@ -16,11 +16,17 @@ This video clip show a Delta-Robot One with long pillars found at [hardware part
 
 We used a system like this to grasp some chips at the image processing lab of our university. We detect the chips, the colour and the velocity. In the video above you can see a simple system with no image processing. The chip is only detected by a time of flight sensor. The motor of the conveyor system and the sensor are both connected to the robots interface. This shows the possibility to extend your robot. There are interfaces provided for Gripper/GND (ON/OFF), Motor/GND (PWM max. 4A), I2C Bus (SCL/SDA),Power/GND (5V/max. 4A)
 
-# Direct link -> [**>>>conveyor_system wiki<<<**](https://github.com/deltarobotone/conveyor_system/wiki)
+# Direct link -> [**>>>Conveyor System Wiki<<<**](https://github.com/deltarobotone/conveyor_system/wiki)
 
 # Delta-Robot One
 
-If you don't know Delta-Robot One we recommend to visit the Arduino Projecthub page of [Delta-Robot One](https://create.arduino.cc/projecthub/deltarobotone/delta-robot-one-8386a1) or the GitHub page [how_to_build_your_robot](https://deltarobotone.github.io/how_to_build_your_robot/)
+### If you don't know Delta-Robot One we recommend to visit:
+
+### Arduino Projecthub page of [Delta-Robot One](https://create.arduino.cc/projecthub/deltarobotone/delta-robot-one-8386a1) 
+
+### or
+
+###GitHub page [how_to_build_your_robot](https://deltarobotone.github.io/how_to_build_your_robot/)
 
 [<img src="http://img.youtube.com/vi/NdPv1pEZnJw/0.jpg" width="400">](https://www.youtube.com/watch?v=NdPv1pEZnJw)
 
