@@ -128,7 +128,8 @@ Delta-Robot One has an hardware interface on the circuit board to provide the us
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(34).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/circuit_board_assembly/circuit_board_assembly%20(34).PNG)
 
-# Conveyor System and Arduino Library (requires Delta-Robot One)
+# Conveyor System and Arduino Library 
+***(requires Delta-Robot One)***
 
 The Arduino Library for Delta-Robot One contains the code which provides the control of an external DC-Motor. So it is possible to use the conveyor system directl. If you would like to go more into detail you can do this without any problem because the software is open source.
 
@@ -199,7 +200,8 @@ robot.functions.waitFor(2000);
 }
 ```
 
-# Python package one-easy-protocol (requires Delta-Robot One)
+# Python package one-easy-protocol 
+***(requires Delta-Robot One)***
 
 A Python package provides the communication protocol with a high level interface to control Delta-Robot One from other systems. So you can control the robot and/or the Conveyor System easily from a system like a Raspberry Pi via USB. Use python package manager to install one-easy-protocol on your system:
 
