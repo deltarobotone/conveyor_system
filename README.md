@@ -134,7 +134,7 @@ The Arduino Library for Delta-Robot One contains the code which provides the con
 
 Sourcecode: [>>>One System Library<<<](https://github.com/deltarobotone/one_system_library)
 
-We recommend to use the FullSystemDemo of OneSystem Library to do the first steps wit Delta-Robot One and Conveyor System. The basic functions to control the drive of Conveyor System are implemented in this demo. Use the menu of Delta-Robot One and navigate to Ext. Motor.
+We recommend to use the FullSystemDemo of OneSystemLibrary to do the first steps wit Delta-Robot One and Conveyor System. The basic functions to control the drive of Conveyor System are implemented in this demo. Use the menu of Delta-Robot One and navigate to Ext. Motor.
 
 [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(9).PNG" width="300">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(9).PNG)
 
