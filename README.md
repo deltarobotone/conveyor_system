@@ -58,6 +58,12 @@ Wiki: [>>>Conveyor System Wiki<<<](https://github.com/deltarobotone/conveyor_sys
 
 Be creative and choose your own design to build an individual Conveyor System.
 
+[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(5).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(5).PNG)
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(8).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(8).PNG)
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_parts/conveyor_system_parts%20(14).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_parts/conveyor_system_parts%20(14).PNG)
+
 All drawings of the layer system are availible...
 
 [>>>Drawings<<<](https://github.com/deltarobotone/conveyor_system/wiki/Parts-Drawings)
