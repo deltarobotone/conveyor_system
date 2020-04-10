@@ -40,7 +40,7 @@ Wiki: [>>>Conveyor System Wiki<<<](https://github.com/deltarobotone/conveyor_sys
 
 # Conveyor System assembly video clip
 
-[<img src="http://img.youtube.com/vi/3GcX2WYTDjQ/0.jpg" width="400">](https://www.youtube.com/watch?v=3GcX2WYTDjQ)
+[<img src="http://img.youtube.com/vi/H1aXDkEY9y8/0.jpg" width="400">](https://www.youtube.com/watch?v=H1aXDkEY9y8)
 
 # Lassercutting Parts
 
