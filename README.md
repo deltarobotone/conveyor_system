@@ -2,7 +2,9 @@
 
 This is an additional system for Delta-Robot One. It is called conveyor system. Things for example metal chips can be transported into the robots workingspace to grasp and sort them in different areas. The conveyor system extents the Delta-Robot One project and provides the posability to do some new tasks. Be creative and do some cool things with it. In the future it is planned to extend the robot and conveyor system with an image processing platform based on a Raspberry Pi 3 board. 
 
+
 [<img src="https://github.com/deltarobotone/image_database/blob/master/conveyor_system_assembly/conveyor_system_assembly%20(44).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/conveyor_system_assembly/conveyor_system_assembly%20(44).PNG)
+
 
 This repository provides all parts you need to build the conveyor system. Delta-Robot One and also this system are mainly designed for students and makers with an educational thought. The Conveyor System for Delta-Robot One is designed as a kit. The pluggable mechanical solution make the assembly fast and easy. Like Delta-Robot One this system is basicly build of lasercutted and 3D-printed parts. An introduction at the containing wiki provides a description of all parts including production files, drawings and a list where you can get the parts. If all the parts are produced and/or delivered the assembly steps will be described at the wiki page. The last step decribes the usage of the system with Delta-Robot One. 
 
@@ -128,7 +130,15 @@ The Arduino Library for Delta-Robot One contains the code which provides the con
 
 Sourcecode: [>>>One System Library<<<](https://github.com/deltarobotone/one_system_library)
 
-The following lines are showing the external motor example of the One System Library. Select this example at Arduino IDE to do the first steps with Delta-Robot One an the Conveyor System.
+We recommend to use the FullSystemDemo of OneSystem Library to do the first steps wit Delta-Robot One and Conveyor System. The basic functions to control the drive of Conveyor System are implemented in this demo. Use the menu of Delta-Robot One and navigate to Ext. Motor.
+
+[<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(9).PNG" width="300">](https://raw.githubusercontent.com/deltarobotone/image_database/master/drawings/drawings%20(9).PNG)
+
+This function is controling an external motor connected to the pinout (M+,M-) of One Circuit Board (5V). Start and stop the motor by pressing the encoder button. Rotate the encoder to change the speed of the motor. Go back with center button.
+
+In the next step you can write your own control function using the interface of OneSystemLibrary:
+
+The following lines are showing the external motor example of the One System Library. Select this example at Arduino IDE to control Conveyor System.
 
 ```c
 //Create the DeltaRobotOne-Object
