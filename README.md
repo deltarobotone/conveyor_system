@@ -68,7 +68,7 @@ All drawings of the layer system are availible...
 
 [>>>Documentation<<<](https://github.com/deltarobotone/conveyor_system/wiki/Step-2:-Check-your-parts)
 
-[>>>Files(Drums)<<<](https://github.com/deltarobotone/conveyor_system/tree/master/3D_Print/Drums)
+[>>>Files<<<](https://github.com/deltarobotone/conveyor_system/tree/master/3D_Print/Drums)
 
 ***How to get the parts?*** No problem...
 
@@ -88,7 +88,7 @@ All drawings of the mechanics are availible...
 
 ### Optional 3D-Printed parts
 
-[>>>Files(Pillars)<<<](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package)
+[>>>Files<<<](https://github.com/deltarobotone/hardware_parts/tree/master/3D_Print/Package)
 
 [>>>Pillar Long Package<<<](https://i.materialise.com/de/shop/item/pillar-long)
 
